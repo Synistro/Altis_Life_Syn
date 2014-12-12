@@ -18,3 +18,6 @@ The terms are subjected to be changed over time.
 
 Disclaimer:
 The vast majority of the code / framework has been written by me. Any additional code / content used is fully credited and owned by it’s author as well as linked to the authors content (Forums,Media,etc). The additional content used within the framework either has the expressed permission of the content creators permission or was automatically used under the GPU (General Purpose License) from public posting with no usage / TOA / Disclaimer, however they still own the rights to their content. If in any case that content is being used within this mission / framework that the content creator doesn’t wish for it to be used due to my strict TOA / Agreement all you need to do is ask for it to be removed and it will be honored.
+
+
+++ Test Push
